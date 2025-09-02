@@ -5,12 +5,20 @@
   "author": "ONE",
   "cover": "https://m.media-amazon.com/images/I/81S1n-i-VBL.jpg",
   "chapters": {
-    "217": {
-      "title": "Capitolo 217: Attenzione pubblica",
+    "216": {
+      "title": "Capitolo 216: L'affascinante mascherato Sweet Mask",
       "volume": "",
-      "last_updated": "1756497903",
+      "last_updated": "1756830021",
       "groups": {
-        "OnePunchManITALIA": "/proxy/api/imgchest/chapter/m9yx3nk9kyq"
+        "OnePunchManITALIA": "/proxy/api/imgchest/chapter/lqyeml8w37d"
+      }
+    },
+    "217": {
+      "title": "Capitolo 217: Siamo umani dopotutto",
+      "volume": "",
+      "last_updated": "1755447569",
+      "groups": {
+        "OnePunchManITALIA": "/proxy/api/imgchest/chapter/o24aj6wm34l"
       }
     }
   }

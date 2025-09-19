@@ -12,6 +12,30 @@
       "groups": {
         "ONETeam": "/proxy/api/imgchest/chapter/xny8m9rjd7b"
       }
+    },
+    "2": {
+      "title": "Capitolo 2: L'umanità nel mezzo",
+      "volume": "",
+      "last_updated": "1758309446",
+      "groups": {
+        "ONETeam": "/proxy/api/imgchest/chapter/9rydr836a7k"
+      }
+    },
+    "3": {
+      "title": "Capitolo 3: Mondi a contatto",
+      "volume": "",
+      "last_updated": "1758309507",
+      "groups": {
+        "ONETeam": "/proxy/api/imgchest/chapter/ljyq23m2xy2"
+      }
+    },
+    "4": {
+      "title": "Capitolo 4: Un barlume di speranza",
+      "volume": "",
+      "last_updated": "1758309642",
+      "groups": {
+        "ONETeam": "/proxy/api/imgchest/chapter/qb4znvlpl4j"
+      }
     }
   }
 }

@@ -4,5 +4,30 @@
   "artist": "ONE",
   "author": "ONE",
   "cover": "https://i0.wp.com/uploads.saigacdn.com/2019/06/one-punch-man-a-hero-nobady-knows-release-01.jpg",
-  "chapters": {}
+  "chapters": {
+    "115": {
+      "title": "Pugno 115",
+      "volume": "",
+      "last_updated": "1773179935",
+      "groups": {
+        "One-Punch Man ITALIA": "/proxy/api/imgchest/chapter/bp45nmvvq45"
+      }
+    },
+    "116": {
+      "title": "Pugno 116",
+      "volume": "",
+      "last_updated": "1773180017",
+      "groups": {
+        "One-Punch Man ITALIA": "/proxy/api/imgchest/chapter/m9yxq9ppq7q"
+      }
+    },
+    "117": {
+      "title": "Pugno 117",
+      "volume": "",
+      "last_updated": "1773180090",
+      "groups": {
+        "One-Punch Man ITALIA": "/proxy/api/imgchest/chapter/n87wj9p5g4x"
+      }
+    }
+  }
 }
